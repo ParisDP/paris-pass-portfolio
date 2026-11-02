@@ -1,8 +1,6 @@
 # Paris Pass — Portfolio
 
-**Specialist, Payroll Client Services | Remote**
-
-This portfolio showcases skills in independent problem-solving, precise communication, operational ownership, documentation, and process improvement — directly aligned with resolving customer payroll queries and supporting global clients at Remote.
+This portfolio highlights skills in independent problem-solving, clear communication, operational ownership, documentation, and process improvement. These strengths transfer well to client-facing support, operations, and roles that require accuracy with complex systems.
 
 ---
 
@@ -15,7 +13,7 @@ I take ownership of complex work, diagnose issues from available data, maintain 
 
 ---
 
-## Skills Aligned to Payroll Client Services
+## Core Strengths
 
 | Skill | How I Demonstrate It |
 |-------|----------------------|
@@ -37,7 +35,6 @@ I take ownership of complex work, diagnose issues from available data, maintain 
 - Built a multi-portal system (Client, Talent, and Operator/Admin) for matching global talent with companies.
 - Implemented video resumes/reels, applications, timezone-aware interview scheduling, and USD timesheet / payment flows.
 - Focused on operational reliability: clear status tracking, self-serve user experiences, and documented workflows so clients and talent can progress while support remains available.
-- Relevant to Remote’s world of global employment, payroll-adjacent processes, and multi-country compliance.
 
 This project demonstrates the ability to understand complex operational systems, maintain accuracy, improve documentation, and support users effectively.
 
@@ -50,14 +47,6 @@ This project demonstrates the ability to understand complex operational systems,
 
 ---
 
-## Fit for Specialist, Payroll Client Services
-
-This is a P2 individual-contributor role focused on independently resolving routine and moderately complex payroll queries, managing a case queue, communicating clearly with customers, collaborating with internal teams, and contributing to documentation and workflow improvements. Working Sunday–Thursday on a fixed shift.
-
-I am looking for exactly this kind of ownership: meet SLAs and KPIs, deepen domain expertise, provide reliable backup coverage when needed, and continuously improve how the team supports customers.
-
----
-
 ## Links
 
 - **GitHub:** [github.com/ParisDP](https://github.com/ParisDP)
@@ -66,4 +55,4 @@ I am looking for exactly this kind of ownership: meet SLAs and KPIs, deepen doma
 
 ---
 
-*Prepared for the Specialist, Payroll Client Services application at Remote. Happy to discuss specific cases, documentation examples, or how I’ve handled complex operational issues.*
+Happy to discuss specific projects, documentation examples, or how I’ve handled complex operational issues.
